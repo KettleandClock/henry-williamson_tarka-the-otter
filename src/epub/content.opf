@@ -30,6 +30,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Tarka the Otter</dc:title>
 		<meta property="file-as" refines="#title">Tarka the Otter</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">His Joyful Water-Life and Death in the Country of the Two Rivers</dc:title>
+		<meta property="file-as" refines="#subtitle">His Joyful Water-Life and Death in the Country of the Two Rivers</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Tarka the Otter: His Joyful Water-Life and Death in the Country of the Two Rivers</dc:title>
+		<meta property="file-as" refines="#fulltitle">Tarka the Otter</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Devon (England) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
